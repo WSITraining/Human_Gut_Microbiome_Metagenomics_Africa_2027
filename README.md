@@ -1,6 +1,6 @@
 <img src="https://github.com/WSITraining/.github/blob/main/profile/STE_Logo.png" width="300" height="100"> 
 
-# Human Gut Microbiome Metagenomics Africa
+# Human Gut Microbiome Metagenomics - Africa
 
 🧬 [Wellcome Sanger Institute](https://www.sanger.ac.uk/) <br>
 🧑‍💻 [Scientific Training and Events Website](https://coursesandconferences.wellcomeconnectingscience.org/)
