@@ -1,8 +1,5 @@
 # Course Modules Directory Instructions for Training Team
 
-- 🧬 [Wellcome Sanger Institute](https://www.sanger.ac.uk/)
-- 🧑‍💻 [Scientific Training and Events Website](https://coursesandconferences.wellcomeconnectingscience.org/)
-
 ## Purpose
 This directory contains all course module files, including presentations, practical manuals, and supplementary materials essential for delivering the course content effectively.
 
@@ -104,3 +101,6 @@ Markdown files can be converted to PDF format using Pandoc. For detailed instruc
 4. [Command Line GitHub Manual](https://cli.github.com/manual/)
 
 ---
+
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) </br>
+[Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/)
